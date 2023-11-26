@@ -12,9 +12,10 @@ style_image.jpg: The style reference image that defines the artistic style.
 ## Dependencies
 Make sure to install the following dependencies:
 
-bash
-Copy code
-pip install numpy tensorflow ipython pillow
+NumPy
+TensorFlow
+IPython
+Pillow
 
 ## How to Run
 Set the directory path for style transfer images in the directory variable.
