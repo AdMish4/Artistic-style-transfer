@@ -12,9 +12,9 @@ style_image.jpg: The style reference image that defines the artistic style.
 ## Dependencies
 Make sure to install the following dependencies:
 
-NumPy
-TensorFlow
-IPython
+NumPy \
+TensorFlow \
+IPython \
 Pillow
 
 ## How to Run
